@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: yaro90.github.io
+Token: 82e156f27ea945ec27a7ad0500da38e15113a79b8ba207bf5e4f46ddaa425ace
